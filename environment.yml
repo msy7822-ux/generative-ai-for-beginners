@@ -1,0 +1,31 @@
+name: tutorial-for-genarative-ai
+channels:
+  - defaults
+prefix: /opt/homebrew/Caskroom/miniconda/base/envs/tutorial-for-genarative-ai
+dependencies:
+  - _libgcc_mutex=0.1=main
+  - _openmp_mutex=4.5=1_gnu
+  - absl-py=0.13.0=pyhd8ed1ab_0
+  - aiohttp=3.7.4=py39h9ed2024_0
+  - argon2-cffi=20.1.0=py39h9ed2024_1
+  - async-timeout=3.0.1=py39h06a4308_0
+  - attrs=21.2.0=pyhd8ed1ab_0
+  - backcall=0.2.0=pyhd8ed1ab_0
+  - blas=1.0=mkl
+  - bleach=3.3.1=pyhd8ed1ab_0
+  - brotlipy=0.7.0=py39h9ed2024_1003
+  - ca-certificates=2021.5.30=ha878542_0
+  - cachetools=4.2.2=pyhd8ed1ab_0
+  - certifi=2021.5.30=py39h6e9494a_0
+  - cffi=1.14.6=py39h2125817_0
+  - chardet=4.0.0=py39h06a4308_1003
+  - charset-normalizer=2.0.4=pyhd8ed1ab_0
+  - click=8.0.1=pyhd8ed1ab_0
+  - cryptography=3.4.7=py39h6ec43e4_0
+  - cudatoolkit=11.3.1=h5b2a357_8
+  - cycler=0.10.0=py39h06a4308_0
+  - decorator=5.0.9=pyhd8ed1ab_0
+  - defusedxml=0.7.1=pyhd8ed1ab_0
+  - entrypoints=0.3=py39h06a4308_0
+  - freetype=2.10.4=h7ca028e_0
+  - gast=

@@ -1,0 +1,38 @@
+name: tutorial-for-genarative-ai
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - bzip2=1.0.8=h93a5062_5
+  - ca-certificates=2023.11.17=hf0a4a13_0
+  - libabseil=20230802.1=cxx17_h13dd4ca_0
+  - libblas=3.9.0=20_osxarm64_openblas
+  - libcblas=3.9.0=20_osxarm64_openblas
+  - libcxx=16.0.6=h4653b0c_0
+  - libexpat=2.5.0=hb7217d7_1
+  - libffi=3.4.2=h3422bc3_5
+  - libgfortran=5.0.0=13_2_0_hd922786_1
+  - libgfortran5=13.2.0=hf226fd6_1
+  - liblapack=3.9.0=20_osxarm64_openblas
+  - libopenblas=0.3.25=openmp_h6c19121_0
+  - libprotobuf=4.24.4=hc9861d8_0
+  - libsqlite=3.44.2=h091b4b1_0
+  - libzlib=1.2.13=h53f4e23_5
+  - llvm-openmp=17.0.6=hcd81f8e_0
+  - ncurses=6.4=h463b476_2
+  - numpy=1.26.2=py312h5d55045_0
+  - onnx=1.15.0=py312h345d32f_0
+  - openssl=3.2.0=h0d3ecfb_1
+  - pip=23.3.2=pyhd8ed1ab_0
+  - protobuf=4.24.4=py312h71bcfcd_0
+  - python=3.12.1=hdf0ec26_0_cpython
+  - python_abi=3.12=4_cp312
+  - readline=8.2=h92ec313_1
+  - setuptools=68.2.2=pyhd8ed1ab_0
+  - tk=8.6.13=h5083fa2_1
+  - typing-extensions=4.9.0=hd8ed1ab_0
+  - typing_extensions=4.9.0=pyha770c72_0
+  - tzdata=2023d=h0c530f3_0
+  - wheel=0.42.0=pyhd8ed1ab_0
+  - xz=5.2.6=h57fd34a_0
+prefix: /opt/homebrew/Caskroom/miniconda/base/envs/tutorial-for-genarative-ai
